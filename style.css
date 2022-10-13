@@ -1,0 +1,13 @@
+.top-bar{
+    display: flex;
+    justify-content: flex-end;
+    background-color:black ;
+    padding: .5rem;
+
+}
+.top-bar img{
+    width: 90px;
+}
+.border-radius{
+    border-radius: 1rem;
+}
