@@ -70,3 +70,50 @@
     align-items: center;
     
 }
+.riga img{
+    width:100%;
+}
+@media  sceen and (max-width:720px) {
+    .none-p{
+        display:none;
+    }
+}
+.takes{
+    color: white;
+    
+    background-image: url('img/it-takes-two-hero-banner-desktop.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+.img-takes{
+    width: 350px;
+    
+}
+.cont-takes{
+    margin: 2rem 1rem;
+
+}
+@media  sceen and (min-width:1024px) {
+    .cont-takes{
+        max-width: 400px;
+        
+    }
+}
+.crt-img img{
+    width: 100%;
+}
+
+.bg-color{
+    background-color: black;
+    padding-top: 2rem;
+    color: white;
+}
+.margin-botton{
+    margin-bottom:1rem;
+}
+.m-l{
+    margin-left: auto;
+    margin-right: auto;
+}
