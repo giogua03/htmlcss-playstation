@@ -73,7 +73,7 @@
 .riga img{
     width:100%;
 }
-@media screen and (max-width:720px) {
+@media screen and (max-width:745px) {
     .none-p{
         display:none;
     }
@@ -127,4 +127,7 @@
 }
 .cv{
     margin-bottom: 1rem;
+}
+.img-ps4 img{
+    width: 100%;
 }
