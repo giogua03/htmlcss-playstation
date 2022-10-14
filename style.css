@@ -131,3 +131,43 @@
 .img-ps4 img{
     width: 100%;
 }
+.bg-color-btn{
+    background-color: white;
+    color: blue;
+    margin: 2rem 0;
+}
+.cnt-grey{
+    display: flex;
+    margin: 2rem 0;
+    background-color: grey;
+}
+.img-grey{
+    
+}
+.img-grey img{
+    width: 100%;
+}
+.img-text-grey img{
+    width: 50%;
+    margin:2rem 0;
+}
+.text-grey{
+    margin: 0 1rem;
+}
+
+@media screen and (max-width:1250px){
+    .img-grey img{
+        display:none
+    }
+
+}
+.sconti-img img{
+    width: 100%;
+}
+.text-sconti{
+    text-align: center;
+    margin: 4rem 0 ;
+}
+.cbt-sconti{
+    margin: 1rem;
+}
