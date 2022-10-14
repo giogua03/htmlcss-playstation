@@ -73,7 +73,7 @@
 .riga img{
     width:100%;
 }
-@media  sceen and (max-width:720px) {
+@media  screen and (max-width:720px) {
     .none-p{
         display:none;
     }
@@ -95,7 +95,7 @@
     margin: 2rem 1rem;
 
 }
-@media  sceen and (min-width:1024px) {
+@media  screen and (min-width:1024px) {
     .cont-takes{
         max-width: 400px;
         
@@ -116,4 +116,16 @@
 .m-l{
     margin-left: auto;
     margin-right: auto;
+}
+.ps4{
+    padding-top: 2rem;
+}
+.title-ps4{
+    text-align: center;
+    margin-top: 1rem  ;
+    max-width: 800px;
+    margin: auto;
+}
+.cv{
+    margin-bottom: 1rem;
 }
