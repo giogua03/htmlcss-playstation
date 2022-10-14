@@ -20,9 +20,7 @@
     height: 400px;
     display: flex;
     align-items: flex-end;
-}
-.cont-img{
-
+    background-position: center;
 }
 .logo-r{
     width: 300px;;
@@ -32,7 +30,43 @@
 }
 .game-img img{
     width: 100%;
+    border-radius: 2rem;
 }
 .padding-cont{
     margin-top: 1rem;
+}
+.dropdown{
+    position: static;
+}
+.dropdown-menu{
+    width: 100%;
+}
+.ps5{
+    text-align: center;
+    margin: 3rem 0 ;
+}
+.ps5 h1{
+    margin-bottom: 1rem;
+}
+.ps5 div{
+    color: blue;
+}
+.btn-margin{
+    border-radius: 2rem;
+}
+.console{
+    margin-bottom: 2rem;
+    margin-left: .5rem
+}
+.console h1{
+    margin-bottom: 1rem; ;
+}
+.console p{
+    margin-bottom: 1rem; ;
+}
+.align{
+    justify-content: flex-start;
+    text-align: start;
+    align-items: center;
+    
 }
