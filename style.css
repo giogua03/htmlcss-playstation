@@ -141,9 +141,7 @@
     margin: 2rem 0;
     background-color: grey;
 }
-.img-grey{
-    
-}
+
 .img-grey img{
     width: 100%;
 }
@@ -170,4 +168,55 @@
 }
 .cbt-sconti{
     margin: 1rem;
+}
+.cnt-blue{
+    display: flex;
+    margin: 2rem 0;
+    background-color: blue;
+    color: white;
+}
+.img-blue img{
+    width: 100%;
+}
+.text-blue{
+    margin: 0 1rem;
+}
+@media screen and (max-width:1250px){
+    .img-blue img{
+        display:none
+    }
+
+}
+.bg-color-btn-2{
+    background-color: white;
+    color: black;
+    margin: 2rem 0;
+}
+.img-text-blue img{
+    width: 50%;
+    margin:2rem 0;
+}
+.ctn-seguici h1{
+    text-align: center;
+}
+.ctn-seguici{
+    margin: 1rem 0;
+}
+.social-img img{
+    width: 100%;
+}
+footer{
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+}
+.text-align-start{
+    text-align: start;
+    list-style: none;
+}
+.footer-img img{
+    width: 100px;
+}
+.p-footer{
+    max-width:500px;
 }
